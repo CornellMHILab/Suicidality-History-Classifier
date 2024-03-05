@@ -14,6 +14,7 @@ This repository maintains the code for detection of personal and family history 
 ## 3. Install necessary packages under the virtual environment
 
 ## 4. Edits python scripts for input/output database/file information using an IDE or text editor
+    If using database for data input/output, provide connection details in mysql_connection.py or sql_connection.py files
 
 ## 5. Enter the virtual environment with the following command: source stb_env/bin/activate
     Run various python scripts:
